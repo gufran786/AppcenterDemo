@@ -1,0 +1,65 @@
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/AppcenterDemo.iOS.exe
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/AppcenterDemo.iOS.pdb
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/Microsoft.AppCenter.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/Microsoft.AppCenter.iOS.Bindings.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/Microsoft.AppCenter.Analytics.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/Microsoft.AppCenter.Analytics.iOS.Bindings.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/Microsoft.AppCenter.Crashes.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/Microsoft.AppCenter.Crashes.iOS.Bindings.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/pt-br/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/AppcenterDemo.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/AppcenterDemo.pdb
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/ibtool/_BundleResourceWithLogicalName.items
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/actool/_PartialAppManifest.items
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/actool/_BundleResourceWithLogicalName.items
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/coremlc/_PartialAppManifest.items
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/coremlc/_BundleResourceWithLogicalName.items
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/optimized/
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/obj/iPhoneSimulator/Debug/AppcenterDemo.iOS.csprojAssemblyReference.cache
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/obj/iPhoneSimulator/Debug/AppcenterDemo.iOS.csproj.CoreCompileInputs.cache
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/obj/iPhoneSimulator/Debug/AppcenterDemo.iOS.csproj.CopyComplete
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/obj/iPhoneSimulator/Debug/AppcenterDemo.iOS.exe
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/obj/iPhoneSimulator/Debug/AppcenterDemo.iOS.pdb

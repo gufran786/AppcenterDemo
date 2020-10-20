@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{69954F6B-3B7F-46A8-91DB-A1C92F3BB984}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AppcenterDemo.Android/MainActivity.cs">
+    <Files>
+      <File FileName="AppcenterDemo/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="AppcenterDemo.Android/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="AppcenterDemo/App.xaml.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AppcenterDemo" expanded="True">
+            <Node name="AppcenterDemo" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+            <Node name="AppcenterDemo.Android" expanded="True">
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AppcenterDemo.Android PreferredExecutionTarget="Android.nexus_one_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.ItemProperties.AppcenterDemo.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

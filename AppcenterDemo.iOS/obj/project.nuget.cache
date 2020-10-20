@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "FRIaAgmCLrk31GaG8cKd+jPl8zp7zd6WAOl8zDJHcaam3ZDxh6yX8Q0tv4Y0kYnPdYYfh5FjiEgMsqfFif3C7w==",
+  "success": true,
+  "projectFilePath": "/Users/gufran/Projects/AppcenterDemo/AppcenterDemo.iOS/AppcenterDemo.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/gufran/.nuget/packages/microsoft.appcenter/3.4.3/microsoft.appcenter.3.4.3.nupkg.sha512",
+    "/Users/gufran/.nuget/packages/microsoft.appcenter.analytics/3.4.3/microsoft.appcenter.analytics.3.4.3.nupkg.sha512",
+    "/Users/gufran/.nuget/packages/microsoft.appcenter.crashes/3.4.3/microsoft.appcenter.crashes.3.4.3.nupkg.sha512",
+    "/Users/gufran/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/gufran/.nuget/packages/xamarin.forms/4.6.0.1141/xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

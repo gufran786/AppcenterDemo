@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "AKSD8Hd8AtIwuZswbSIC8E1v/6L5n2LihQ4LTdwHYt//rewFVlV6E8Becpu9u7hj66mKfIXpjON4dM1dTCu2Xw==",
+  "success": true,
+  "projectFilePath": "/Users/gufran/Projects/AppcenterDemo/AppcenterDemo/AppcenterDemo.csproj",
+  "expectedPackageFiles": [
+    "/Users/gufran/.nuget/packages/microsoft.appcenter/3.4.3/microsoft.appcenter.3.4.3.nupkg.sha512",
+    "/Users/gufran/.nuget/packages/microsoft.appcenter.analytics/3.4.3/microsoft.appcenter.analytics.3.4.3.nupkg.sha512",
+    "/Users/gufran/.nuget/packages/microsoft.appcenter.crashes/3.4.3/microsoft.appcenter.crashes.3.4.3.nupkg.sha512",
+    "/Users/gufran/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/gufran/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/gufran/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/gufran/.nuget/packages/xamarin.forms/4.6.0.1141/xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

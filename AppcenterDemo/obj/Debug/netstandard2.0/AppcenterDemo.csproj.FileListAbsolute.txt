@@ -1,0 +1,14 @@
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo/bin/Debug/netstandard2.0/AppcenterDemo.deps.json
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo/bin/Debug/netstandard2.0/AppcenterDemo.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo/bin/Debug/netstandard2.0/ref/AppcenterDemo.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo/bin/Debug/netstandard2.0/AppcenterDemo.pdb
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo/obj/Debug/netstandard2.0/AppcenterDemo.csprojAssemblyReference.cache
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo/obj/Debug/netstandard2.0/AppcenterDemo.AssemblyInfoInputs.cache
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo/obj/Debug/netstandard2.0/AppcenterDemo.AssemblyInfo.cs
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo/obj/Debug/netstandard2.0/AppcenterDemo.csproj.CoreCompileInputs.cache
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo/obj/Debug/netstandard2.0/AppcenterDemo.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo/obj/Debug/netstandard2.0/ref/AppcenterDemo.dll
+/Users/gufran/Projects/AppcenterDemo/AppcenterDemo/obj/Debug/netstandard2.0/AppcenterDemo.pdb
